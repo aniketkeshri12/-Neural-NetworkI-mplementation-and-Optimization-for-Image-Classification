@@ -5,9 +5,9 @@
 ##### ANIKET KESHRI CS23M013
 
 This is assignment number 1 in the course, Fundamentals of Deep Learning CS6910 by Prof. Mitesh Khapra.
-We implement a feed forward neural network and use verious flavors of the gradient descent algorithm such as momentum, nesterov, RMSprop, Adam, NAdam  and compare  them. The datasets chosen are fashion-mnist and mnist, which have images of size 28x28 and 10 classes. We o not use any convolution,. Instead, we would like to see how a simple 'dense' neural network could perform.
+We implement a feed forward neural network and use verious flavors of the gradient descent algorithm such as momentum, nesterov, RMSprop, Adam, NAdam  and compare  them. The datasets chosen are fashion-mnist and mnist, which have images of size 28x28 and 10 classes.
 
-We run upto 450 different configurations and track them all using wandb, we then find correlations with the best features and tune further searches to attempt to reach as high an accuracy as possible:-
+We run upto 390 different configurations and track them all using wandb, we then find correlations with the best features and tune further searches to attempt to reach as high an accuracy as possible:-
 
 Report can be accessed here:- https://wandb.ai/cs23m013/CS23M013_DL_A1/reports/CS6910-Assignment-1--Vmlldzo3MTc1OTU1
 
