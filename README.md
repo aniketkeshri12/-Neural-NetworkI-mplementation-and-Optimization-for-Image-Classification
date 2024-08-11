@@ -1,4 +1,4 @@
-# CS6910_DeepLearning_Assignment_1
+#  Neural Network Implementation and Optimization for ImageC lassification
 
 # Deep Learning Assignment 1: Neural Network development
 
